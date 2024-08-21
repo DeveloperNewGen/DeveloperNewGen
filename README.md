@@ -7,8 +7,10 @@
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperNewGen&layout=compact&langs_count=10&hide_border=true&title_color=6636e0&text_color=6636e0&bg_color=0d1117" />
 </div>
-
-<div align="center">  
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperNewGen&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+<div align="start">  
 <a href="https://www.linkedin.com/in/leonardo-jose-8a8797214/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-2a33d4?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div> 
  
